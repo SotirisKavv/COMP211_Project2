@@ -96,4 +96,3 @@ while True:
     else:
         pass
     print("\n")
-    print(receipts)
